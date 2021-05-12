@@ -1,6 +1,6 @@
 {
   "name": "is-exists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a functions, variables, modules, files, properties exists or not.",
   "main": "src/index.js",
   "directories": {
