@@ -39,9 +39,11 @@ if (variable_exists("isArray")) {
   //do the true statement code
 }
 
-if (file_exists("./src/index.js")) {
-  //do the true statement code
-}
+(async () => {
+  if (await file_exists("./src/index.js")) {
+    //do the true statement code
+  }
+})();
 
 if (module_exists("mocha")) {
   //do the true statement code

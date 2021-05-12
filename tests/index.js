@@ -15,12 +15,12 @@ chai.should();
 global.Hello = () => {};
 
 describe("Check whether function is exist or not.", () => {
-  it("Equals true", async () => {
-    const is_function_exists = await function_exists("Hello");
+  it("Equals true", () => {
+    const is_function_exists = function_exists("Hello");
     is_function_exists.should.equal(true);
   });
-  it("Equals false", async () => {
-    const is_function_exists = await function_exists("Hello2");
+  it("Equals false", () => {
+    const is_function_exists = function_exists("Hello2");
     is_function_exists.should.equal(false);
   });
 });
