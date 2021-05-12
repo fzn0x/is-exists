@@ -1,7 +1,7 @@
 ## Contributing Guide
 
-Step 1. Fork the project
-Step 2. Clone the forked project
+Step 1. Fork the project\
+Step 2. Clone the forked project\
 Step 3. Create your feature/bug branch
 
 ```bash
@@ -14,8 +14,8 @@ Example :
 git checkout -b bug/function-exists
 ```
 
-Step 5. Commit your changes
-Step 6. Push your changes the the feature/bug branch
+Step 5. Commit your changes\
+Step 6. Push your changes the the feature/bug branch\
 Step 7. Create new pull request from your forked repo branch
 
 ## Additional
