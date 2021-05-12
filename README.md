@@ -1,8 +1,8 @@
 # is-exists
 
-![mazer-nuxt](https://socialify.git.ci/fauzan121002/is-exists/image?description=1&font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F6ff34ec8760318b99888ee4b75d1e265170a84b9%2F6479c%2Flogos%2Fnuxt.svg&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Light)
+![is-exists](https://socialify.git.ci/fauzan121002/is-exists/image?description=1&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
-![CI](https://github.com/fauzan121002/encryptlab/workflows/Node.js%20CI/badge.svg)
+![CI](https://github.com/fauzan121002/is-exists/workflows/Node.js%20CI/badge.svg)
 [![tag](https://img.shields.io/badge/nodejs->=v10.24.1-green.svg)](https://nodejs.org/en/)
 [![github actions][actions-image]][actions-url]
 [![coverage][codecov-image]][codecov-url]
