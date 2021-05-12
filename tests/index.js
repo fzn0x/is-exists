@@ -77,11 +77,11 @@ describe("Check whether property is exist or not.", () => {
 
 describe("Check whether user environment is exist or not.", () => {
   it("Equals true", () => {
-    const is_env_var_exists = env_var_exists("PROMPT", obj);
+    const is_env_var_exists = env_var_exists("EXISTS", obj);
     is_env_var_exists.should.equal(true);
   });
   it("Equals false", async () => {
-    const is_env_var_exists = env_var_exists("PROMPT2", obj);
+    const is_env_var_exists = env_var_exists("EXISTS2", obj);
     is_env_var_exists.should.equal(false);
   });
 });
