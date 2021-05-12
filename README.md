@@ -1,5 +1,7 @@
 # is-exists
 
+![CI](https://github.com/fauzan121002/encryptlab/workflows/Node.js%20CI/badge.svg)
+[![tag](https://img.shields.io/badge/nodejs->=v10.24.1-green.svg)](https://nodejs.org/en/)
 [![github actions][actions-image]][actions-url]
 [![coverage][codecov-image]][codecov-url]
 [![dependency status][5]][6]
